@@ -1,0 +1,5 @@
+# Request: the maze (as list of strings)
+string[] maze
+---
+# Response: path as flattened array [x1, y1, x2, y2, ...]
+int32[] path
